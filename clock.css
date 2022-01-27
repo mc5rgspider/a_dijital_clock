@@ -1,0 +1,29 @@
+body {
+    background-color:#a258e7;
+}
+#clock {
+  color: rgb(92, 79, 5);
+  font-size: 180px;
+  background-color: rgba(233, 97, 226, 0.664);
+  padding: 0.5em 0em;
+  width: 80%;
+  margin: 0px auto;
+  font-family: Neonderthaw;
+  /*font-family: Helvetica,Arial;*/
+  text-align: center;
+}
+#banner {
+  color: #fefefe;
+  font-size: 50px;
+  text-align:center;
+  background-color: #7f25f5;
+  padding: 0.5em 0em;
+  width: 80%;
+  margin: 10% auto 0%;
+  font-family: Neonderthaw;
+  text-align: left;
+  text-transform:uppercase;
+}
+span {
+  margin-left:175px;
+}
